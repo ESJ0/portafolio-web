@@ -2,6 +2,10 @@
 
 Portafolio online construido con React y Vite para presentar laboratorios, tareas y proyectos web con repositorios publicos de GitHub.
 
+# Link al portafolio deployado
+
+http://209.126.125.149:3008/
+
 ## Stack
 
 - React + Vite para la SPA y el build.

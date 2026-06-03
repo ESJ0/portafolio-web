@@ -1,5 +1,4 @@
-export const projects = [
-    {
+export const projects = [{
         id: 1,
         type: "lab",
         title: "Lab 1: Command Line Clue",
@@ -78,7 +77,7 @@ export const projects = [
         description: "Proyecto web full-stack con JavaScript, CSS, PLpgSQL y Docker. Integra interfaz, logica de aplicacion y base de datos.",
         tags: ["JavaScript", "CSS", "PLpgSQL", "Docker"],
         github: "https://github.com/ESJ0/Proyecto2DB",
-        demo: null,
+        demo: "https://esj0.github.io/f1-tracker-frontend/",
         featured: true,
     },
     {
@@ -103,8 +102,7 @@ export const projects = [
     },
 ];
 
-export const techStack = [
-    {
+export const techStack = [{
         name: "HTML",
         icon: "SiHtml5",
         color: "#e34f26",
